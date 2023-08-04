@@ -1,6 +1,6 @@
 {
   "name": "strapi-provider-email-msgraph",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Microsoft Graph email provider plugin for Strapi 4",
   "main": "./lib",
   "directories": {
