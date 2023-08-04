@@ -16,7 +16,7 @@ This package is scoped so you'll need to add an alias to your package.json. Repl
 ```json
   "dependencies": {
     ...
-    "@strapi/provider-email-msgraph": "npm:@odeen2005/provider-email-msgraph@<version>"
+    "@strapi/provider-email-msgraph": "npm:strapi-provider-email-msgraph@<version>"
     ...
   }
 ```

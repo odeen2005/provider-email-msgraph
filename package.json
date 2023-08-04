@@ -1,5 +1,5 @@
 {
-  "name": "@odeen2005/provider-email-msgraph",
+  "name": "strapi-provider-email-msgraph",
   "version": "1.0.0",
   "description": "Microsoft Graph email provider plugin for Strapi 4",
   "main": "./lib",
