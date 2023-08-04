@@ -26,12 +26,12 @@
     "Graph",
     "Microsoft"
   ],
-  "author": "",
+  "author": "odeen2005 (https://github.com/odeen2005)",
   "contributors": [
     ""
   ],
   "license": "MIT",
-  "homepage": "",
+  "homepage": "https://github.com/odeen2005/provider-email-msgraph#readme",
   "strapi": {
     "isProvider": true
   },
